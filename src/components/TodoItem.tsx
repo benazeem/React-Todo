@@ -19,7 +19,7 @@ function TodoItem(props:TodoItemProps) {
 
   return (
     <>
-    <li className={`w-[98%] group ${activeCard === todo.id ? 'active:text-blue-400' : ''}`} draggable aria-grabbed={activeCard === todo.id}>
+    <li className={`w-[98%]  group ${activeCard === todo.id ? 'active:text-blue-400' : ''}`} draggable aria-grabbed={activeCard === todo.id}>
               <div draggable
                onDragStart={()=>setActiveCard(todo.id)}
                onDragEnd={() => setActiveCard(null)}

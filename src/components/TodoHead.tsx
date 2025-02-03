@@ -36,6 +36,7 @@ function TodoHead() {
                       ? "/images/icon-sun.svg"
                       : "/images/icon-moon.svg"
                   }
+                  className='pointer-events-none'
                   alt={theme === "dark" ? "sun icon" : "moon icon"}
                 />
               </button>

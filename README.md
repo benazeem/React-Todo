@@ -105,7 +105,3 @@ Users should be able to:
 - GitHub - [benazeem](https://github.com/benazeem)
 - Frontend Mentor - [benazeem](https://www.frontendmentor.io/profile/benazeem)
 - Linkedin - [devazeem](https://www.linkedin.com/in/devazeem/)
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
